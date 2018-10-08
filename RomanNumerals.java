@@ -1,8 +1,5 @@
 /* 
 Author: Balderas, Diana
-Assignment: Programming Assignment #03
-Course: COMP B11 AM
-Instructor: Richard Miles
 Submitted: 2018/11/09
 */
 
